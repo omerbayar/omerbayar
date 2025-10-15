@@ -1,16 +1,15 @@
+
 <div align="center">
-👋 Hey there, I'm Ömer Bayar
+👋 Hey there, I'm Omer
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Developer" alt="Typing SVG" />
 📍 Istanbul, Turkey
 <br>
-💬
-"If you want to build anything with code, text me...
-Music with code? Text me however."
+📱 Building cross-platform mobile apps & software solutions
 <br>
-🎯 Currently
-📱 Building cross-platform mobile apps & embedded solutions
-🔧 Learning IoT, embedded systems & project management
+🔧 Learning IoT, AI, embedded systems & project management
+<br>
 🎵 Music • Finance • Gaming enthusiast
+<br>
 <br>
 🛠️ Tech Stack
 <p>
@@ -27,11 +26,15 @@ Music with code? Text me however."
 <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
 </p>
 <br>
+💬
+**"If you want to build anything with code, text me...
+Music with code? Text me however."**
+<br>
+<br>
+💡 Open to collaborations  •  🚀 Always learning  •  ☕ Coffee-driven
+<br>
 📫 Let's Connect
 <a href="https://linkedin.com/in/omerbayar34">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-```
-💡 Open to collaborations  •  🚀 Always learning  •  ☕ Coffee-driven
-```
 </div>
