@@ -5,7 +5,7 @@
 <br>
 📱 Building cross-platform mobile apps & software solutions with IoT technologies and web apps.
 <br>
-🔧 Learning AI systems, data science, embedded systems & project management and architecture.
+🔧 Learning AI systems, data science, embedded systems, project management & architecture.
 <br>
 🎵 Music • Finance • Gaming • Fantastic culture enthusiast
 <br>
